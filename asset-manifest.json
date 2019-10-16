@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "//brendapsd.github.io/BookShop/static/css/main.6adc3191.chunk.css",
+    "main.js": "//brendapsd.github.io/BookShop/static/js/main.38f8849f.chunk.js",
+    "main.js.map": "//brendapsd.github.io/BookShop/static/js/main.38f8849f.chunk.js.map",
+    "runtime-main.js": "//brendapsd.github.io/BookShop/static/js/runtime-main.431d7c54.js",
+    "runtime-main.js.map": "//brendapsd.github.io/BookShop/static/js/runtime-main.431d7c54.js.map",
+    "static/js/2.2df6cd18.chunk.js": "//brendapsd.github.io/BookShop/static/js/2.2df6cd18.chunk.js",
+    "static/js/2.2df6cd18.chunk.js.map": "//brendapsd.github.io/BookShop/static/js/2.2df6cd18.chunk.js.map",
+    "index.html": "//brendapsd.github.io/BookShop/index.html",
+    "precache-manifest.f1819e961f9e5d6f0f73fa75ec08a4e8.js": "//brendapsd.github.io/BookShop/precache-manifest.f1819e961f9e5d6f0f73fa75ec08a4e8.js",
+    "service-worker.js": "//brendapsd.github.io/BookShop/service-worker.js",
+    "static/css/main.6adc3191.chunk.css.map": "//brendapsd.github.io/BookShop/static/css/main.6adc3191.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.431d7c54.js",
+    "static/js/2.2df6cd18.chunk.js",
+    "static/css/main.6adc3191.chunk.css",
+    "static/js/main.38f8849f.chunk.js"
+  ]
+}
