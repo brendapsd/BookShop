@@ -1,0 +1,22 @@
+.carrito{
+    background: orange; 
+    width: 25%; 
+}
+.nav{
+    background: #f2f2f2;
+    color: #666666;
+}
+header{
+    margin-bottom: 0px;
+}
+#header_links{
+    display: block;
+}
+#sticky_top{
+    margin-top: 41.5px;
+    right: auto;
+}
+
+/* <header id="header" style="margin-bottom: 0px;"> */
+/* <ul id="header_links" style="display: block;"> */
+/* <div id="sticky_top" class="col-xs-12 col-sm-12 col-md-9" style="margin-top: 41.5px; right: auto;"> */
